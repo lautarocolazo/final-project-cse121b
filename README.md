@@ -1,4 +1,4 @@
-# final-project-cse121b
+# Final project CSE 121B
 
 ## About the installation
 Since the purpose of this class was to learn and demonstrate the knoweledge learned about JavaScript, but I wanted to make this project look good, I developed the UI with a CSS framework
